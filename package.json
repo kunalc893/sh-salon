@@ -1,0 +1,15 @@
+{
+  "name": "sh-hair-studio-demo",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Responsive five-page demo website for SH Hair Studio, Indore.",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0",
+    "build": "vite build",
+    "preview": "vite preview --host 0.0.0.0"
+  },
+  "devDependencies": {
+    "vite": "^6.4.1"
+  }
+}
